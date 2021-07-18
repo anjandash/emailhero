@@ -39,4 +39,35 @@
   border-radius: 20px;
 }
 
+.cards-section{
+  width: 100%;
+  height: auto;
 
+  padding: 20px 0px;
+  margin: 40px auto;
+
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+
+  background: linear-gradient(120deg, #ee7752, #e73c7e, purple);
+  
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.card{
+  width: 300px;
+  height: 340px;
+  min-width: 300px;
+
+  padding: 20px 20px;
+  margin: 10px 10px; 
+
+  border: 1px solid lightgray;
+  border-radius: 10px;
+
+  background: whitesmoke;
+  box-shadow: 1px 0px 0px 0px grey;
+}
