@@ -6,7 +6,6 @@
   margin: 0px;
 
   background: whitesmoke;
-  //font-family: 'Poppins', sans-serif;
   font-family: 'Otomanopee One', sans-serif;
 }
 
@@ -25,3 +24,19 @@
   border: 0px solid red;
   text-align: center;
 }
+
+.color-header{
+  width: 90%;
+  height: 300px;
+
+  background: linear-gradient(-45deg, purple, #e73c7e, #ee7752);
+  font-family: 'Poppins', sans-serif;
+
+  padding: 0px;
+  margin: 10px auto;
+
+  border: 0px solid purple;
+  border-radius: 20px;
+}
+
+
